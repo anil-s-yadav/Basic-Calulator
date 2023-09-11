@@ -1,7 +1,7 @@
 # Basic-Calulator
 
---> Mhy first App.
---> This a very simple aap made just for learning purpose.
---> Very Simple Calculations.
+--> Mhy first App.<br>
+--> This a very simple aap made just for learning purpose.<br>
+--> Very Simple Calculations.<br><br>
 
 => Screenshots
